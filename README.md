@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-I am a **Computer Science student** in my 8th semester at **Escuela de Ingeniería Julio Garavito (Bogotá, Colombia)**.  
+I am a **Computer Science student** in my 9th semester at **Escuela de Ingeniería Julio Garavito (Bogotá, Colombia)**.  
 
 Passionate about coding, optimizing solutions, and staying up to date with emerging technologies.  
 
