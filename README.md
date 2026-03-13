@@ -65,11 +65,12 @@ Passionate about coding, optimizing solutions, and staying up to date with emerg
 
 ## Proyectos
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ECIBienestar&repo=eci-bienestar-frontend2)](https://github.com/ECIBienestar/eci-bienestar-frontend2)
+## Proyectos
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ECIBienestar&repo=netherita-gymnasium-service)](https://github.com/ECIBienestar/netherita-gymnasium-service)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ECIBienestar&repo=eci-bienestar-frontend2&theme=radical)](https://github.com/ECIBienestar/eci-bienestar-frontend2)
 
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ECIBienestar&repo=netherita-gymnasium-service&theme=radical)](https://github.com/ECIBienestar/netherita-gymnasium-service)
 
-[![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=dadc1007&repo=primitive-clash-frontend)](https://github.com/dadc1007/primitive-clash-frontend)
+[![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=dadc1007&repo=primitive-clash-frontend&theme=radical)](https://github.com/dadc1007/primitive-clash-frontend)
 
-[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=dadc1007&repo=primitive-clash-backend)](https://github.com/dadc1007/primitive-clash-backend)
+[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=dadc1007&repo=primitive-clash-backend&theme=radical)](https://github.com/dadc1007/primitive-clash-backend)
