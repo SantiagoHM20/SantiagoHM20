@@ -60,3 +60,16 @@ Passionate about coding, optimizing solutions, and staying up to date with emerg
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
+
+
+
+## Proyectos
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ECIBienestar&repo=eci-bienestar-frontend2)](https://github.com/ECIBienestar/eci-bienestar-frontend2)
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ECIBienestar&repo=netherita-gymnasium-service)](https://github.com/ECIBienestar/netherita-gymnasium-service)
+
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SantiagoHM20&repo=primitive-clash-frontend)](https://github.com/dadc1007/primitive-clash-frontend)
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SantiagoHM20&repo=primitive-clash-backend)](https://github.com/dadc1007/primitive-clash-backend)
